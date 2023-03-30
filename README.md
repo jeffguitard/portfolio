@@ -1,7 +1,7 @@
 # Project Portfolio
-AD PowerShell Scripting
+**AD PowerShell Scripting**
 
-Demonstrated Skills: 
+*Demonstrated Skills:*
 
 •	Active Directory user creation via CSV scripting 
 
