@@ -57,6 +57,7 @@
 
 
 **Linux Ansible**
+
   
 *Demonstrated Skills:*
 
@@ -68,11 +69,11 @@
 
 •	Working with Ansible: 
 
-            • Host file configuration 
+            Host file configuration 
 
-            • Ad-Hoc commands 
+            Ad-Hoc commands 
 
-            • Playbook creation/configuration 
+            Playbook creation/configuration 
 
 
 
