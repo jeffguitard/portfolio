@@ -1,7 +1,5 @@
 # Project Portfolio
 AD PowerShell Scripting
-NETW 2500 Network Operating System Administration 
-Active Directory Management, Group Policy, and System Maintenance 
 
 Demonstrated Skills: 
 •	Active Directory user creation via CSV scripting 
@@ -14,8 +12,6 @@ Demonstrated Skills:
 
 
 Honeypot Project
-ISEC 3700 Information Security Practices 
-Honey Pot Project 
 
 Demonstrated Skills: 
 •	Server configuration planning 
@@ -28,8 +24,6 @@ Demonstrated Skills:
 
 
 KBAS
-Knowledge Base Articles  
-A compilation of KBAs that I have created 
 
 Demonstrated Skills:   
 •	Accurate Research 
@@ -37,9 +31,8 @@ Demonstrated Skills: 
 •	Clear and Concise Writing 
 •	Organized Document Structuring 
 
+
 Linux Ansible
-OSYS 3030 
-Ansible Configuration Management  
   
 Demonstrated Skills:  
 •	VMware OS creation/management 
@@ -52,8 +45,6 @@ Demonstrated Skills: 
 
 
 Network Design Proposal
-SAAD 1002 System Analysis and Design  
-Friendswood Hospital Network Design Proposal  
   
 Demonstrated Skills:  
 •	Microsoft Visio for Flowcharts/Floorplans/Server rack designs
