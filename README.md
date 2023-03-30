@@ -18,15 +18,22 @@
 •	Client file management scripting 
 
 
-Honeypot Project
 
-Demonstrated Skills: 
+**Honeypot Project**
+
+*Demonstrated Skills:*
 •	Server configuration planning 
+
 •	File auditing 
+
 •	Network monitoring software installation and configuration 
+
 •	Server change management logging 
-•	Network analysis and evidence of intercepted intrusion attempts 
+
+•	Network analysis and evidence of intercepted intrusion attempts
+ 
 •	Network security recommendations 
+
 •	Penetration testing using Kali Linux 
 
 
