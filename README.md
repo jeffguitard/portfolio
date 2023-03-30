@@ -2,12 +2,19 @@
 AD PowerShell Scripting
 
 Demonstrated Skills: 
+
 •	Active Directory user creation via CSV scripting 
+
 •	Active Directory group creation and management scripting 
+
 •	Group Policy management 
+
 •	User home drive creation 
+
 •	AD object configuration and permissions 
+
 •	Client domain join 
+
 •	Client file management scripting 
 
 
