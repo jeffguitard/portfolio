@@ -41,9 +41,9 @@
 
 
 
-KBAS
+**KBAS**
 
-Demonstrated Skills:   
+*Demonstrated Skills:*
 
 •	Accurate Research 
 
@@ -56,29 +56,30 @@ Demonstrated Skills: 
 
 
 
-Linux Ansible
+**Linux Ansible**
   
-Demonstrated Skills:  
+*Demonstrated Skills:*
 
 •	VMware OS creation/management 
 
 •	Installation activity planning 
+
 •	Ansible controller creation 
 
 •	Working with Ansible: 
 
-              - Host file configuration 
+            • Host file configuration 
 
-              - Ad-Hoc commands 
+            • Ad-Hoc commands 
 
-              - Playbook creation/configuration 
-
-
+            • Playbook creation/configuration 
 
 
-Network Design Proposal
+
+
+**Network Design Proposal**
   
-Demonstrated Skills:  
+*Demonstrated Skills:*
 
 •	Microsoft Visio for Flowcharts/Floorplans/Server rack designs
 
